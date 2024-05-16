@@ -6,7 +6,7 @@ import requests
 
 
 # Write directly to the app
-st.title("Example Streamlit App:cup_with_straw:")
+st.title("Customize Your Smoothie:cup_with_straw:")
 st.write(
     """ Choose the fruits you want in your custom Smoothie !
     """
